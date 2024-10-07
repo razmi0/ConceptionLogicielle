@@ -50,3 +50,13 @@ Etapes :
         - appel a des routes et activation d'instances d'objet, entité, model, fragment ( test ) jusqu'a verification donnée aprés appel base de donnée et retour à l'interface.
 
 ### Camp de vacances
+
+definition besoin :
+
+- choisir l'intervalle de reservation
+-
+
+définition features
+
+- date d'arrivée plus ou moins 3 jours
+-
