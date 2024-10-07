@@ -51,6 +51,9 @@ Etapes :
         - appel a des routes et activation d'instances d'objet, entité, model, fragment ( test ) jusqu'a verification donnée aprés appel base de donnée et retour à l'interface.
 
 ```mermaid
-flowchart LR
-    A[A] --> B[C];
+  graph TD;
+      A[string]-->B[string];
+      A[string]-->C[string];
+      B[string]-->D[string];
+      C[string]-->D[string];
 ```
