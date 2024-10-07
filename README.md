@@ -2,20 +2,19 @@
 
 Teams
 
-UML - meurize ( conception base de donnée surtout) - Agilité
+UML - Merise ( conception base de donnée surtout) - Agilité
 
 ## Ressources
 
 YT - Delphine Longuet
-Looping-MCD ( uniquement windows ) : - meurize => définition entité => génere multitude de diagramme ( MLD (modele logique), code sql, )
+Looping-MCD ( uniquement windows ) : - Merise => définition entité => génere multitude de diagramme ( MLD (modele logique), code sql, )
 
 ## Intro
 
-UML ( unified Model Language ) :
+UML ( Unified Modeling Language ) :
 
 - standard conception ( pas seulement dev projet)
-- echange technique avec non
-- initié faciliter
+- echange technique avec non initié facilité
 - multiplicité acteur dans conception
 - facilite migration stack technique
 
@@ -52,8 +51,8 @@ Etapes :
 
 ```mermaid
   graph TD;
-      A[string]-->B[string];
-      A[string]-->C[string];
-      B[string]-->D[string];
-      C[string]-->D[string];
+      A[**]-->B[**];
+      A[**]-->C{**};
+      B[**]-->D(**);
+      C{**}-->D(**);
 ```
