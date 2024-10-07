@@ -51,15 +51,16 @@ Etapes :
 
 ### Camp de vacances
 
-cas utilisation
+cas utilisation :
 
-- client
-- client connecté
+- client (voir les offres)
+- client connecté (voir les offres, reservée )
 - modérateur
 - administrateur
 
 definition besoin :
 
+-
 - choisir l'intervalle de reservation
 -
 
@@ -67,3 +68,12 @@ définition features
 
 - date d'arrivée plus ou moins 3 jours
 -
+
+filtres :
+
+- type (tentes, camping-car / caravane, et des mobilhomesChalets, tipy )
+- prix (croissant , décroissant)
+- taille (superficie, Q lits)
+- ranking (possibilité de mettre des offres en avant)
+- options ( clim, wifi, radiateur)
+- "theme"
