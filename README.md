@@ -54,9 +54,10 @@ Etapes :
 cas utilisation :
 
 - client (voir les offres)
-- client connecté (voir les offres, reservée )
-- modérateur
-- administrateur
+- client connecté (voir les offres, gerer ses réservations, gerer ses avis, gerer ses services )
+- personnel d'accueil (gerer les reservations, gerer les avis, gerer les services)
+- personnel commercial
+- administrateur(gérer l'ensemble)
 
 definition besoin :
 
@@ -67,7 +68,7 @@ definition besoin :
 définition features
 
 - date d'arrivée plus ou moins 3 jours
--
+- filtrage des offres
 
 filtres :
 
@@ -77,3 +78,11 @@ filtres :
 - ranking (possibilité de mettre des offres en avant)
 - options ( clim, wifi, radiateur)
 - "theme"
+
+Services et activité sur place
+
+- piscine
+- salle de sport
+- piscine jet massant
+- aire de jeux
+- ménage
