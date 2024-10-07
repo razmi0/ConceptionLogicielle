@@ -45,5 +45,7 @@ Etapes :
     - shéma retranscrisant la logique métier ( composant métiers, uses cases )
     - conception ( affichage produits, quels acteur ?, toute la dynamique autour des produits )
     - donne repére aux dev autant front
-
-fin de conception : diagramme de séquence , evenement acteur et sequantialisation evenement et logique ( interface), appel a des routes et activation d'instances d'objet, entité, model, fragment ( test ) jusqu'a verification donnée aprés appel base de donnée et retour à l'interface.
+    - fin de conception
+      - production diagramme de séquence
+        - evenement acteur et sequantialisation evenement et logique depuis l'interface
+        - appel a des routes et activation d'instances d'objet, entité, model, fragment ( test ) jusqu'a verification donnée aprés appel base de donnée et retour à l'interface.
