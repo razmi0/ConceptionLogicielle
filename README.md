@@ -51,6 +51,13 @@ Etapes :
 
 ### Camp de vacances
 
+cas utilisation
+
+- client
+- client connecté
+- modérateur
+- administrateur
+
 definition besoin :
 
 - choisir l'intervalle de reservation
