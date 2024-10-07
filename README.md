@@ -8,6 +8,7 @@ UML - Merise ( conception base de donnée surtout) - Agilité
 
 YT - Delphine Longuet
 Looping-MCD ( uniquement windows ) : - Merise => définition entité => génere multitude de diagramme ( MLD (modele logique), code sql, )
+EXCALIDRAW : <https://excalidraw.com/#json=8HVsClc7L2kZhI-Tf8W9r,jWZPO14ej159mgWawZtbgg>
 
 ## Intro
 
