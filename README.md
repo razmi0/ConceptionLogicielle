@@ -49,3 +49,8 @@ Etapes :
       - production diagramme de séquence
         - evenement acteur et sequantialisation evenement et logique depuis l'interface
         - appel a des routes et activation d'instances d'objet, entité, model, fragment ( test ) jusqu'a verification donnée aprés appel base de donnée et retour à l'interface.
+
+```mermaid
+flowchart TD
+    A[] --> B[];
+```
