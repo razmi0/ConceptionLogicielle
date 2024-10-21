@@ -1,6 +1,6 @@
-#gestion d'une bibliothèque
+# gestion d'une bibliothèque
 
-Voici les besoins d'un bibliothèque : 
+Voici les besoins d'un bibliothèque :
 
 - parcourir le catalogue d'ouvrages
 - rechercher un ouvrage
@@ -12,7 +12,7 @@ Voici les besoins d'un bibliothèque :
 
 ## exercice
 
-Vous devez concevoir la base de données qui servira à gérer la bibliothèque, vous cela vous réaliserez : 
+Vous devez concevoir la base de données qui servira à gérer la bibliothèque, vous cela vous réaliserez :
 
 - le modèle conceptuel de données
 - le modèle logique de données

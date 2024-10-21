@@ -50,7 +50,7 @@ Etapes :
         - evenement acteur et sequantialisation evenement et logique depuis l'interface
         - appel a des routes et activation d'instances d'objet, entité, model, fragment ( test ) jusqu'a verification donnée aprés appel base de donnée et retour à l'interface.
 
-### Merise
+### Meurise
 
 - dans phase de conception
 - shéma normalisé facilitant la communication
@@ -61,7 +61,7 @@ Etapes :
 - 3 niveaux de conception :
   - conceptuel ( MCD ) => uniquement champs visible ( pas de table de relation et clé étrangères) => clé primaire = identifiant
   - logique ( MLD ) => transforme le MCD => cardinalité devient clé étrangère. Si deux 0,n ou 1,n => table de relation car c'est un many to many avec un clé primaire composite ( id1, id2 )
-  - physique ( MPD ) => rajoute les typage SQL, le typages.
+  - physique ( MPD ) => rajoute les typage SQL, le typages => peut posséder les valeurs par défaut
 - trés lié à documentation
 
 ⚠️ Attention aux many to many qui sont les plus complexe est font spawn des tables de relation. L'id composite prévient de duplication d'article( id1 + id2 )
