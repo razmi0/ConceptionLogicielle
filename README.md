@@ -103,3 +103,19 @@ Services et activité sur place
 - piscine jet massant
 - aire de jeux
 - ménage
+
+## Presentation par prof de sa proposition Camping
+
+Autonomie cient dans le système d'information ( on lui laisse la possibilité de rajouter saison ou équipement, services ou type d'habitation)
+emplacement numéroté => creation d'une map pour les emplacements avec les disponibilités en fonction du séjours aussi
+
+- diagramme de cas d'utilisation
+  - acteur : visiteur, client (connecté), camping(connecté et acteur administratif), admin(peut reproduire bug)
+
+-diagramme d'activité de la réservatiion
+
+- participant = nom, prénom, date de naissance.
+
+- diagramme d'etat transition des reservations
+  - Configured => Validated => Reserved => Invoiced => Paid
+  - paiement d'un acompte, prévoir annulation et remboursement du séjour ( cas grave ).
