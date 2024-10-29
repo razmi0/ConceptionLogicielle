@@ -135,3 +135,5 @@ emplacement numéroté => creation d'une map pour les emplacements avec les disp
 "Les tables pivot "Situer" et "Reserver" ont pour clé primaire le couple de clé étrangeres des tables qu'elles relient"
 
 - prévient de la duplication d'information car un couple de clé étrangère est unique
+
+Always data est hébergeur LAMP
