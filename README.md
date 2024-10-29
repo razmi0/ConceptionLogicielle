@@ -117,5 +117,21 @@ emplacement numéroté => creation d'une map pour les emplacements avec les disp
 - participant = nom, prénom, date de naissance.
 
 - diagramme d'etat transition des reservations
+
   - Configured => Validated => Reserved => Invoiced => Paid
   - paiement d'un acompte, prévoir annulation et remboursement du séjour ( cas grave ).
+
+- diagramme entité relation peut faire apparaitre les methodes des entité getter/setter.
+
+  - Fais apparaitre les cardinalité sous forme 0,\* ou 1,1 ou 1,\* ou 0,1
+  - Memo :
+    - cardinalité 0,1 => clé étrangère nullable
+    - cardinalité 1,1 => clé étrangère not null
+    - cardinalité 1,\* => clé étrangère not null
+    - cardinalité 0,\* => clé étrangère nullable
+
+- modele conceptuel de données :
+
+"Les tables pivot "Situer" et "Reserver" ont pour clé primaire le couple de clé étrangeres des tables qu'elles relient"
+
+- prévient de la duplication d'information car un couple de clé étrangère est unique
